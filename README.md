@@ -1,4 +1,3 @@
-# catboost-ml-project
 # Bank Reviews Sentiment Analysis (CatBoost)
 
 Проект посвящён анализу текстовых отзывов о банках и построению модели
