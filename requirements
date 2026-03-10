@@ -1,9 +1,0 @@
-# requirements
-catboost
-pandas
-numpy
-sklearn.model
-matplotlib
-tensorflow
-keras
-jupyter
